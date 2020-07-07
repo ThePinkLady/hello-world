@@ -1,4 +1,6 @@
 # hello-world
-New to repository
-I like doing while I learn.
-I am changing this to keep track of progress.
+
+Hello everyone
+
+I enjoy learning coding skills. 
+I may be  changing this to keep track of progress. 
